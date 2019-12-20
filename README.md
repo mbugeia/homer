@@ -1,3 +1,11 @@
+This is a fork of [Homer](https://github.com/bastienwirtz/homer) for [Privy Place](https://github.com/mbugeia/privyplace) needs.
+
+Modifications:
+- Do not cache config.yml
+- Move config.yml to config/config.yml
+- Add logos for Privy Place apps
+- Remove unwanted logo
+
 # Homer
 A dead simple static **HOM**epage for your serv**ER** to keep your services on hand, from a simple `yaml` configuration file.
 
